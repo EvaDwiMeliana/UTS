@@ -1,0 +1,12 @@
+//JAWABAN NO 2 
+//Algoritma Djikstra merupakan algoritma yang digunakan untuk memecahkan suatu permasalahan jarak terpendek dalam bentuk graf.
+//Lalu apa itu ADJACENT MATRIX dalam DJIKSTRA ALGORITHM ??
+//Suatu matriks digunakan untuk menyatakan adjacency set setiap verteks dalam baris-barisnya. 
+//Nomor baris menyatakan nomor verteks adjacency berasal dan nomor kolom menunjukkan nomor verteks kemana arah adjacency.
+//Elemen matriks [x, y] berharga 1 bila terdapat sisi dari x ke y dan berharga 0 bila tidak ada.
+
+//Contoh atau implimentasi dari DJIKSTRA
+//Untuk menentukan rute.
+//Estimasi rute terpendek dan penggunaan bahan bakar.
+//Melihat rute yang dilalui oleh bus kota.
+//Memilih rute terdekat untuk mencapai suatu lokasi.
